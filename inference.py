@@ -79,7 +79,7 @@ def run_folder(model, args, config, device, verbose: bool = False):
                 if config.audio['num_channels'] == 2:
                     print(f'Convert mono track to stereo...')
                     mix = np.concatenate([mix, mix], axis=0)
-
+                    
         mix_orig = mix.copy()
         if 'normalize' in config.inference:
             if config.inference['normalize'] is True:

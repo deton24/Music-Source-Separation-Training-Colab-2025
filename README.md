@@ -1,5 +1,7 @@
-https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb
+https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb (dead)
 <br>Dependencies are now handled in the notebook
+<br> Use this one now:<br>
+https://colab.research.google.com/drive/1IC6Q1hLF55_tK6mhky0SWYKGVF9T5WsY
 
 # Music Source Separation Universal Training Code
 

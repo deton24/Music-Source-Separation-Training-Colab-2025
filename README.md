@@ -1,9 +1,11 @@
- <br>Dependencies are now handled in the notebook
 <br> Use this Colab for inference now:<br>
 https://colab.research.google.com/drive/1IC6Q1hLF55_tK6mhky0SWYKGVF9T5WsY<br>
 For custom model import Colab:<br>
 https://colab.research.google.com/github/deton24/Music-Source-Separation-Training-Colab-2025/blob/main/Music_Source_Separation_Training_%28Colab_Inference%29_CustomModel.ipynb<br>
-[dead src]([dead src](https://colab.research.google.com/github/jarredou/Music-Source-Separation-Training-Colab-Inference/blob/main/Music_Source_Separation_Training_(Colab_Inference).ipynb)
+
+<br>
+<br>Dependencies are now handled in the notebook<br>
+
 # Music Source Separation Universal Training Code
 
 Repository for training models for music source separation. Repository is based on [kuielab code](https://github.com/kuielab/sdx23/tree/mdx_AB/my_submission/src) for [SDX23 challenge](https://github.com/kuielab/sdx23/tree/mdx_AB/my_submission/src). The main idea of this repository is to create training code, which is easy to modify for experiments. Brought to you by [MVSep.com](https://mvsep.com).

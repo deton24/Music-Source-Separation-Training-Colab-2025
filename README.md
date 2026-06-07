@@ -3,7 +3,6 @@ https://colab.research.google.com/drive/1IC6Q1hLF55_tK6mhky0SWYKGVF9T5WsY<br>
 For custom model import Colab:<br>
 https://colab.research.google.com/github/deton24/Music-Source-Separation-Training-Colab-2025/blob/main/Music_Source_Separation_Training_%28Colab_Inference%29_CustomModel.ipynb<br>
 
-<br>
 <br>Dependencies are now handled in the notebook<br>
 
 # Music Source Separation Universal Training Code
